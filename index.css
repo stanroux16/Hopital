@@ -1,0 +1,87 @@
+header div{
+    display: inline-block;
+    background-color: #1027f8;
+    margin-left: 0px;
+    padding-left: 10px;
+    padding-right: 820px;
+}
+header div h1{
+    padding-left: 500px;
+}
+header div h1 a{
+    text-decoration: none;
+    color: #101010;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+nav {
+    background-color: #ff0000;
+}
+label#labdrop{
+    font-size: 30px;
+}
+h1.welcome{
+    font-size: 40px;
+}
+a.play{
+    background-color: #1027f8;
+    color: #000000;
+    text-decoration: none;
+    margin-left: 70px;
+    border-radius: 2rem;
+    padding: 18px;
+}
+a.play:hover{
+    background-color: #4a93ff;
+}
+div.pro{
+    margin-left: 30px;
+}
+a.cov{
+    background-color: #1027f8;
+    color: #000000;
+    text-decoration: none;
+    border-radius: 2rem;
+    padding: 18px;
+}
+a.cov:hover{
+    background-color: #4a93ff;
+}
+button#send{
+    background-color: #1027f8;
+    padding: 10px;
+}
+a.grv{
+    background-color: #1027f8;
+    color: #000000;
+    text-decoration: none;
+    border-radius: 0rem;
+    padding: 30px;
+}
+ul.nav{
+    background-color: #ff0000;
+    padding-left: 0px;
+}
+ul.nav > li{
+    display: inline-block;
+    font-size: 40px;
+    border-right: 1px solid #101010;
+    padding: 15px;
+}
+ul.nav li a{
+    text-decoration: none;
+    color: #000000;
+}
+ul.nav li:hover{
+    background-color: #ff4b1e;
+}
+div.copy{
+    background-color: #000000;
+    padding: 30px;
+    text-align: center;
+}
+p#cpy{
+    color: #fff;
+}
